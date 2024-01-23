@@ -2,7 +2,7 @@
     /* Set a background image */
     background-image: /* Transparent gradient above */
     linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%),
-    /* Then image below */ url('footer.jpeg');
+    /* Then image below */ url('../../images/footer.jpeg');
     background-color: rgba(0, 0, 0, 0.7);
     background-size: cover;
     color : white;
