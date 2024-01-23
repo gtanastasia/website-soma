@@ -1,0 +1,22 @@
+.avatar {
+width: 200px;
+height:150px;
+border-radius: 50;
+}
+
+
+.avatar {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Ajout de cette propriété pour centrer horizontalement également */
+    border-radius: 50%;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px auto;
+    margin-top: 10px;
+    border: 2px silver #007bff;
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+}
+
+
+
